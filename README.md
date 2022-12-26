@@ -46,7 +46,8 @@ To wire pushbutton:
 ●	Button3 (bottom): decrements by a minute up to >= 0 (which sends a Tx byte at 0)
 Diagram Subsystem 1:
  
- ![image](https://user-images.githubusercontent.com/118694086/208269400-f7b934c5-9365-4966-bf28-266b023b9c99.png)
+ ![image](https://user-images.githubusercontent.com/118694086/209499528-c74fc5e9-8b1f-4745-86c0-2ded718f9b21.png)
+
 
  
  
